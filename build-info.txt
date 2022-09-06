@@ -1,0 +1,12 @@
+---PyAI Build Infomation---
+Created by : Egamer
+Created using : Microsoft Windows 10 Home 10.0.19043 N/A Build 19043  and Python 3.10.7
+Created with : 
+Created in : Norway
+Project started : 04 September 2022
+Project ended : 
+Database Manager : Egamer
+Program Manager : Egamer
+Published by : Egamer
+Compyled using : Pyinstaller https://pyinstaller.org/en/stable/
+---PyAI Build Infomation---
